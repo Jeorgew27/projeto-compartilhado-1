@@ -1,2 +1,2 @@
-# projeto-compartilhado-1
-Repositório para aula com git e GitHub em equipe.
+# thiago mudando o título  
+thiago mudando o textos
